@@ -6,5 +6,5 @@ pre {
 .ascii-art {
     font-family: monospace;
     white-space: pre;
-    /*display: none;*/
+    display: none;
 }
