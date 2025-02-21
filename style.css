@@ -1,0 +1,10 @@
+pre {
+    font-family: monospace;
+    white-space: pre;
+}
+
+.ascii-art {
+    text-align: center;
+    font-family: monospace;
+    white-space: pre;
+}
